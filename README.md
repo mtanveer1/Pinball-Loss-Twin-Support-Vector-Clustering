@@ -1,6 +1,6 @@
 # Pinball loss Twin Support Vector Clustering (pinTSVC)
 
-This is implementation of the paper: M. Tanveer, Tarun Gupta, Miten Shah, and for the Alzheimer’s Disease Neuroimaging Initiative. 2020. Pinball Loss Twin Support Vector Clustering. ACM Trans. Multimedia Comput. Commun. Appl. 1, 1 (May 2020), 23 pages. https://doi.org/10.1145/1122445.1122456
+This is implementation of the paper: M. Tanveer, Tarun Gupta, Miten Shah, and for the Alzheimer’s Disease Neuroimaging Initiative. 2020. Pinball Loss Twin Support Vector Clustering. ACM Trans. Multimedia Comput. Commun. Appl. (Accepted), 23 pages.
 
 Description of files:
 
